@@ -1,5 +1,5 @@
 {
-    "name": "MSX NoName Launcher",
+    "name": "MSX AK Launcher",
     "version": "0.0.1",
     "parameter": "menu:request:interaction:menu@https://seahawk.github.io/msx/launcher/store.html",
     "welcome": "content",
