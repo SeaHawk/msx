@@ -1,6 +1,6 @@
 {
     "name": "MSX AK Launcher",
-    "version": "0.0.1",
+    "version": "1.0.1",
     "parameter": "menu:request:interaction:menu@https://seahawk.github.io/msx/launcher/store.html",
     "welcome": "content",
     "note": "For this service, Media Station X 0.1.132 or higher is needed.",
