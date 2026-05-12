@@ -9,12 +9,12 @@
       },
       {
          "icon": "menu",
-         "label": "Все приложения",
+         "label": "Все приложения 1",
          "data": "https://seahawk.github.io/msx/mooviestile/all.json"
       },
       {
          "icon": "live-tv",
-         "label": "IPTV приложения",
+         "label": "IPTV приложения 1",
          "data": "https://seahawk.github.io/msx/mooviestile/iptv.json"
       },
       {
